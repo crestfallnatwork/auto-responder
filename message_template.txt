@@ -1,0 +1,10 @@
+Content-Type: text/plain; charset="UTF-8"
+Subject: {subject}
+From: {from}
+To: {to}
+
+This is an automated reply:
+
+I am on vacation, will reach out to you later?
+
+Himanshu's AutoReplier

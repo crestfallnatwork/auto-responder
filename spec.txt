@@ -1,0 +1,5 @@
+This application uses no external libraries. Just plain old Node.
+For sending requests the node fetch API is used.
+Other than that the app makes use of node's filesystem APi(reading configs, auth info and such) and the HTTP API(server for OAuth2 redirect)
+
+For the application of this size and functionality, I think there is no need for external dependencies.
